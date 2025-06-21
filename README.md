@@ -1,5 +1,3 @@
-Absolutely! Here’s a clean, clear, and professional `README.md`** for your Agentic AI – Autonomous Job Search & Application Bot — suitable for GitHub or any project portfolio:
-
 
 
 📌 Agentic AI — Autonomous Job Search & Application Bot
@@ -104,6 +102,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 This project is for educational purposes only.
 
 
-If you’d like, I can help you generate the actual `config.json` example and `requirements.txt` too — just say **“Yes, generate config and requirements!”** 🚀✨
 
 ![Export to Google Doc](chrome-extension://iapioliapockkkikccgbiaalfhoieano/assets/create.svg)![Copy with formatting](chrome-extension://iapioliapockkkikccgbiaalfhoieano/assets/copy.svg)![Select for Multi-select](chrome-extension://iapioliapockkkikccgbiaalfhoieano/assets/multi-select.svg)
